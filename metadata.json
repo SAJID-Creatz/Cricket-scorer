@@ -1,6 +1,0 @@
-{
-  "name": "Cricket Scorer",
-  "description": "Live ball-by-ball cricket scoring app with match scorecards, player statistics, and squad management.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
